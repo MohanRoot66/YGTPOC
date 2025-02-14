@@ -1,0 +1,2 @@
+﻿"message","data__bookingRef","data__bookingDate","data__departureDate","data__noOfPax","data__leadPax","data__Suppliers__supplierCode","data__Suppliers__details__status","data__Suppliers__details__arrivalDate","data__Suppliers__details__leaveDate","data__Suppliers__details__Currency","data__Suppliers__details__ExchangeRate","data__Suppliers__details__TotalCost"
+"Booking and suppliers fetched successfully.","EU12w3456","2025-01-08T00:00:00.000Z","2025-04-01T00:00:00.000Z","4","John Doe","EZY001","","2025-04-01T00:00:00.000Z","2025-04-04T00:00:00.000Z","EUR","1","8000"
